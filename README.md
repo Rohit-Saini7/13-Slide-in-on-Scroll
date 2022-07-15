@@ -14,7 +14,7 @@ Learn more about the course in [here](https://javascript30.com/).
 
 ## Screenshot
 
-![Screenshot](./assets/screenshot.png)
+Screendhot : [Click me](./assets/screenshot.png).
 
 ## Background Image
 
