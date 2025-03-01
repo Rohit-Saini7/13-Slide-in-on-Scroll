@@ -4,7 +4,7 @@ Date: July 15, 2022
 
 # Thirteenth challange of [JavaScript30](https://javascript30.com/)
 
-This webpage tracks whichever keys you are pressing. To experience on your own visit [here](https://github.com/Rohit-Saini7/13-Slide-in-on-Scroll)
+This webpage tracks whichever keys you are pressing. To experience on your own visit [here]([https://github.com/Rohit-Saini7](https://rohit-saini7.github.io/13-Slide-in-on-Scroll)
 
 ## What is JavaScript 30
 
